@@ -1,7 +1,7 @@
 # ModulPraktikum4
-NAMA : MUHAMAD SOFHIAN PERMANA
-KELAS : TI.22.C1
-TUGAS PERTEMUAN KE 9 (MODUL PRAKTIKUM 4)
+\\ NAMA : MUHAMAD SOFHIAN PERMANA
+\\  KELAS : TI.22.C1
+\\ TUGAS PERTEMUAN KE 9 (MODUL PRAKTIKUM 4)
 ## Latihan Modul Praktikum 4
 ### Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 ### Akses list:
