@@ -48,17 +48,16 @@ Buat program sederhana untuk menambahkan data kedalam sebuah list dengan rincian
 
 <img width="793" alt="ss TugasModulPraktikum4(program)" src="https://user-images.githubusercontent.com/116411792/203464738-1a51ea1b-f3fa-4d9f-8392-1b2bf99dd501.png">
 
-Membuat terlebih dahulu list kosong untuk nantinya dimasukkan data list dari nama, NIM, tugas, uts dan uas.
-Menggunakan perulangan while True yang artinya perulangan terus menerus.
-Membuat data untuk input nama, NIM, tugas, uts, uas, dan nilai akhir. gunakan tipe data integer pada tugas, uts, dan uas karena data yang dimasukkan berupa angka. dan pada nilai akhir untuk menghitung total dari perhitungan tugas x 30%, uts x 35%, dan uas x 35%.
-Buat list untuk memasukkan semua data yang sudah diinput.
-Tambahkan list yang baru saja dibuat untuk dimasukkan kedalam list yang pertama kali di buat.
-Lalu menggunakan fungsi continue jika TambahData = y dan break jika TambahData = t.
-Gunakan perulangan for di dalam while True. perulangan dimaksudkan agar data bisa dimasukkan berkali kali.
-enumerate pada for berfungsi untuk menambahkan index atau penomoran pada setiap data list yang di print.
-'nomor' untuk index penomoran dan 'mahasiswa' untuk pengambilan data dari list_mahasiswa. 
-lalu print sesuai dengan nomor urutan pada list_mahasiswa.
-dan perulangan akan selesai jika TambahData = t.
+1. Membuat terlebih dahulu list kosong untuk nantinya dimasukkan data list dari nama, NIM, tugas, uts dan uas.
+2. Menggunakan perulangan while True yang artinya perulangan terus menerus.
+3. Membuat data untuk input nama, NIM, tugas, uts, uas, dan nilai akhir. gunakan tipe data integer pada tugas, uts, dan uas karena data yang dimasukkan berupa angka. dan pada nilai akhir untuk menghitung total dari perhitungan tugas x 30%, uts x 35%, dan uas x 35%.
+4. Buat list untuk memasukkan semua data yang sudah diinput.
+5. Tambahkan list yang baru saja dibuat untuk dimasukkan kedalam list yang pertama kali di buat.
+6. Lalu menggunakan fungsi continue jika TambahData = y dan break jika TambahData = t.
+7. Gunakan perulangan for di dalam while True. perulangan dimaksudkan agar data bisa dimasukkan berkali kali.
+8. enumerate pada for berfungsi untuk menambahkan index atau penomoran pada setiap data list yang di print. 'nomor' untuk index penomoran dan 'mahasiswa' untuk pengambilan data dari list_mahasiswa. 
+9. lalu print sesuai dengan nomor urutan pada list_mahasiswa.
+10. dan perulangan akan selesai jika TambahData = t.
 
 Maka output dari program tersebut : 
 
@@ -79,5 +78,6 @@ Hasil pengumpulan data dimasukkan ke kolom :
 
 
 
+:call_me_hand:
 ## TERIMA KASIH
-## HAVE A NICE DAY
+## HAVE A NICE DAY 
