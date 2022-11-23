@@ -1,4 +1,7 @@
 # ModulPraktikum4
+NAMA : MUHAMAD SOFHIAN PERMANA
+KELAS : TI.22.C1
+TUGAS PERTEMUAN KE 9 (MODUL PRAKTIKUM 4)
 ## Latihan Modul Praktikum 4
 ### Buat sebuah list sebanyak 5 elemen dengan nilai bebas
 ### Akses list:
@@ -59,12 +62,15 @@ dan perulangan akan selesai jika TambahData = t.
 Maka output dari program tersebut : 
 
 Input data 1
+
 <img width="433" alt="ss TugasModulPraktikum4(output1)" src="https://user-images.githubusercontent.com/116411792/203464762-b38a7812-7ad8-447a-bb84-149d0d6dc6a5.png">
 
 Input data 2
+
 <img width="447" alt="ss TugasModulPraktikum4(output2)" src="https://user-images.githubusercontent.com/116411792/203464780-8d01f906-3c89-432c-af7c-bebe01b59512.png">
 
 Input Data 3
+
 <img width="435" alt="ss TugasModulPraktikum4(output3)" src="https://user-images.githubusercontent.com/116411792/203464802-653183fb-a420-46cd-b2de-ac6b39397324.png">
 
 Hasil pengumpulan data dimasukkan ke kolom : 
